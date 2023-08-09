@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on [Hinafri-care](https://hinafri.com/industries/healthcare)
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **DevOps, Blockchain** 
 
 - 💬 Ask me about **React, Express.js, Node.js, API, etc.**
 
