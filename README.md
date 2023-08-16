@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **React, Express.js, Node.js, API, etc.**
 
- - ⚡ Fun fact: ** My coding style is like an evolving artwork – I keep refining it to create beautiful and efficient masterpieces! 🖌️🎨**
+
 
 <br>
 
