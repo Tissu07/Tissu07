@@ -65,8 +65,8 @@
 
 
 ### :fire: My Stats
-![Abhi Github stats](https://github-readme-stats.vercel.app/api?username=Tissu07&show_icons=true&theme=radical) | [![GitHub Streak](https://streak-stats.demolab.com/?user=Tissu07&theme=dark)](https://git.io/streak-stats) 
---- | --- 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Tissu07&theme=dark)](https://git.io/streak-stats) 
+
 
 <br>
 
