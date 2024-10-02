@@ -16,11 +16,11 @@
 
 ![](https://komarev.com/ghpvc/?username=Tissu07)
 
-- 🔭 I’m currently working on [Webseeder](https://www.webseeder.in/)
+- 🔭 I’m currently working on **Projects**
 
-- 🌱 I’m currently learning **DevOps, Blockchain** 
+- 🌱 I’m currently learning **Microservices** 
 
-- 💬 Ask me about **React, Express.js, Node.js, API, etc.**
+- 💬 Ask me about **React, Express.js, Node.js, API, DevOps, AWS etc.**
 
 
 
